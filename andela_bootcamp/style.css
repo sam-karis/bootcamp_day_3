@@ -1,0 +1,44 @@
+body {
+  background:orange;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #FFF;
+  font-family: "Playfair Display", serif;
+  font-size: 32px;
+  padding-top: 100px;
+  text-align: left;
+  width: 60%;
+  text-transform:uppercase;
+  text-align:center;
+}
+
+h2 {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  color: #FFF;
+  font-weight: 100;
+  font-family: Roboto, sans-serif;
+  font-size: 22px;
+  letter-spacing:0.02em;
+  line-height: 28px;
+  padding-bottom: 30px;
+  text-align: left;
+  width: 70%;
+  word-spacing: 0.05em;
+  font-style:italic;
+  text-align:left;
+}
+}
+
+p {
+  color: AliceBlue;
+  font-family: Roboto, sans-serif;
+  font-size: 24px;
+  font-weight: 100;
+  line-height: 1.7em;
+  text-align: left;
+  width: 100%;
+  font-weight:bold:100;
+}
